@@ -1,18 +1,19 @@
 # Webpack-pill
-WebPack is a tool that allows you to manage the resources and dependencies of a website. 
+WebPack is a tool that allows you to manage the resources and dependencies of a website. It mainly solves Javascript dependencies, although it can also work with css, images, Javascript preprocessors, CSS preprocessors, template systems, and much more.
 
 ### Prerequisites
 
-Use webpack.
+Use webpack , ECMAScript6 and sass.
 
 ### General Analysis
 
-* Create an XML document
-* What is a markup language?
-* What is a metalanguage?
-* Differences between XML and JSON 
-* Define five cases in which XML is used
-* What is the relationship between AJAX and XML?
+* Install WebPack
+* Create an index.html file that serves as an entry point to the application.
+* Create module-a.js that makes use of the new features of ECMAScript 6
+* Create module-b.js that makes use of the JQuery library
+* Create main.js file that will be responsible for calling the modules that your application needs 
+* Create sass and images files 
+* Configure your project
 
 ### Deliverables
 
@@ -23,14 +24,14 @@ Use webpack.
 
 ## Built With
 
-* [XML](https://en.wikipedia.org/wiki/XML) - Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
-* [Markup language](https://en.wikipedia.org/wiki/Markup_language) - In computer text processing, a markup language is a system for annotating a document in a way that is syntactically distinguishable from the text, meaning when the document is processed for display, the markup language is not shown, and is only used to format the text
+* [WebPack](https://webpack.js.org/) - Webpack is a static module bundler for modern JavaScript applications
+* [ECMAScript 6](https://kangax.github.io/compat-table/es6/) - ECMAScript compatibility table.
 * [VScode](https://code.visualstudio.com) - Used to edit code.
 
 
 ## Authors
 
-* **Marcelo Gaspar** - *XML-pill* - [Mpgaspar](https://github.com/Mpgaspar)
+* **Marcelo Gaspar** - *Webpack-pill* - [Mpgaspar](https://github.com/Mpgaspar)
 
 
 ## License
